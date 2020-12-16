@@ -5,3 +5,4 @@ DMM WEBCAMP学習コンテンツRailsを学ぼうで作成したWebサイト
 Rails -v 5.2.4
 
 課題3：Bookersサイト
+✳︎復習のために再度作成
